@@ -55,5 +55,5 @@ if (botao.classList.contains('container__botao-desabilitado')){
     document.getElementById('de').value = '';
     document.getElementById('ate').value = '';
     document.getElementById('resultado').innerHTML = '<label class="texto__paragrafo">Números sorteados:  nenhum até agora</label>';
-    alterarbotaoreiniciar();
+    alterarbotaoreiniciar(); 
  }
